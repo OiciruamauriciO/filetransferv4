@@ -19,4 +19,4 @@ def texto_a_excel(nombre_archivo_txt, nombre_archivo_excel):
     print(f"Archivo Excel guardado como '{nombre_archivo_excel}'")
 
 # Ejemplo de uso:
-texto_a_excel('cfgris.250409_ajustado.txt', 'cfgris.250409_ajustado.xlsx')
+texto_a_excel('cfgris.250410_ajustado.txt', 'cfgris.250410_ajustado.xlsx')
