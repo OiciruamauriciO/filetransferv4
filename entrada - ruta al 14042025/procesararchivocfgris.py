@@ -26,8 +26,8 @@ def procesar_archivo(archivo_entrada, archivo_salida, estructura):
 estructura = [4,1,3,1,8,1,8,1,2,1,4,1,3,1,1,1,3,1,1,1,2,1,5,1,4,1,2,1,1,1,1,1,3,1,5,3,1,1,4,1,4,1,4,1,7,1,7,1,15,1,15,1,15,1,15,1,1,1,12,1,3,1,17,1,20,1,2,1,2,1,3,1,4,1,4,1,1,1,1,1,19,1,20,1,3,1,1]
 
 # Cambiá estos paths según tus archivos
-archivo_entrada = 'cfgris.250409_procesado.txt'
-archivo_salida = 'cfgris.250409_ajustado.txt'
+archivo_entrada = 'cfgris.250410_procesado.txt'
+archivo_salida = 'cfgris.250410_ajustado.txt'
 
 # Ejecutar el procesamiento
 procesar_archivo(archivo_entrada, archivo_salida, estructura)
